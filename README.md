@@ -1,12 +1,6 @@
 # 👨🏻‍💻Business-Case-Study---Shopping-Behavior-Project-
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
-
-
 
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
@@ -21,14 +15,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
-## 🛠️ How to Use This Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+## 🛠️ How This Project Works
    ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+1. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -46,7 +35,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **Postgres.sql**
   
       - Answer Business Questions using SQL Queries 
       
@@ -60,24 +49,12 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Create project report
    
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+      - Build presentation PowerPoint
 
 
-## 📜 License
 
-MIT — feel free to fork, star, and use in your portfolio.
-
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-💼 LinkedIn: [David Sule-Odu](https://www.linkedin.com/in/dsuleodu/)
+💼 LinkedIn: [David Sule-Odu](https://www.linkedin.com/in/dsuleodu/).
 - Let’s connect!
 
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+## 💡 Thanks for checking out the project! Your support means a lot!🚀
