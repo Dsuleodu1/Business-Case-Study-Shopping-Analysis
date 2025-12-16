@@ -41,7 +41,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **customer_behavior_dashboard POWERBI**
    
       - Create interactive dashboard in Power BI
   
