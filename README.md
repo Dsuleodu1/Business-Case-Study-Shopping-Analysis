@@ -13,7 +13,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](blob:https://megatoolshub.com/69269e6a-7de7-44c3-b929-4944de762976)
+![Project Workflow](https://github.com/Dsuleodu1/Business-Case-Study-Shopping-Analysis/blob/bab51c9dd00fc7da4b45497df4b69f0a13fc9441/Data%20analysis%20workflow%20diagram.jpg)
 
 ## 🛠️ How This Project Works
    ```
